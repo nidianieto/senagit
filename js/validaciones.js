@@ -1,0 +1,1 @@
+console.log('No contar con la inteligencia del usuario');
